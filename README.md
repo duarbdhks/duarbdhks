@@ -4,7 +4,7 @@
 
 🐋 I’m currently working on ...
 
-🔗 Development blog : [https://duarbdhks.github.io](https://duarbdhks.github.io)
+🔗 Development blog : [https://duarbdhks.tistory.com](https://duarbdhks.tistory.com)
 
 <br/>
 

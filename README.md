@@ -1,7 +1,5 @@
 ## Guwhan.yeum - @duarbdhks
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=duarbdhks/duarbdhks" alt="visitor"/>
-
 🐋 I’m currently working on ...
 
 🔗 Development blog : [https://duarbdhks.tistory.com](https://duarbdhks.tistory.com)
